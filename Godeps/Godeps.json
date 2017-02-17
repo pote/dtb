@@ -1,0 +1,8 @@
+{
+    "ImportPath": "github.com/pote/dtb",
+    "GoVersion": "go1.7",
+    "Packages": [
+        "./..."
+    ],
+    "Deps": []
+}
