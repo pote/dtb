@@ -60,6 +60,7 @@ var Messages []string = []string{
 	"bugger",
 	"bump to 0.0.3-dev:wq",
 	"By works, I meant 'doesnt work'.  Works now..",
+	"cha-cha-changes",
 	"changed things...",
 	"changes",
 	"clarify further the brokenness of C++. why the fuck are we using C++?",
