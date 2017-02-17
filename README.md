@@ -9,7 +9,7 @@ In an amazing display of selflessness two developers decided to sacrifice about 
 
 ### Usage
 
-We've deployed this app to Heroku, because we really wanted to spend the lease possible amount of effort.
+We've deployed this app to Heroku, because we really wanted to spend the least possible amount of effort.
 
 ```bash
 $ curl http://drinking-typing-bird.herokuapp.com
