@@ -17,7 +17,7 @@ $ curl http://drinking-typing-bird.herokuapp.com
 
 ### REAL usage
 
-Jump into whatever repository you're working on and run this command, it will sleep randomly and create an empty commit using a phrase from [whatthecommit.com](whatthecommit.com) as the commit message. 
+Jump into whatever repository you're working on and run this command, it will sleep randomly and create an empty commit using a phrase from [whatthecommit.com](https://whatthecommit.com) as the commit message. 
 
 ```
 while true; do sleep $(( $RANDOM / 100 )); git commit --allow-empty -m "$(curl http://drinking-typing-bird.herokuapp.com/)" ; done
